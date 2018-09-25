@@ -1,0 +1,40 @@
+_repo: The-great-white-way-a-record-of-an-unusual-voyage-of-discovery-and-some-romantic-love-affairs__57527
+_version: 0.0.1
+contributor:
+  contributor:
+    agent_name: Chase, Mr.
+    gutenberg_agent_id: '49444'
+    url: http://www.gutenberg.org/2009/agents/49444
+  illustrators:
+  - agent_name: Gale, Chauncey
+    gutenberg_agent_id: '49445'
+    url: http://www.gutenberg.org/2009/agents/49445
+  - agent_name: Rosenmeyer, Bernard J.
+    alias: Rosenmeyer, B. J. (Bernard J.)
+    gutenberg_agent_id: '42167'
+    url: http://www.gutenberg.org/2009/agents/42167
+creator:
+  author:
+    agent_name: Paine, Albert Bigelow
+    birthdate: 1861
+    deathdate: 1937
+    gutenberg_agent_id: '1076'
+    url: http://www.gutenberg.org/2009/agents/1076
+    wikipedia: http://en.wikipedia.org/wiki/Albert_Bigelow_Paine
+description: ''
+gutenberg_issued: '2018-07-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '57527'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'The great white way;
+
+  a record of an unusual voyage of discovery, and some
+
+  romantic love affairs amid strange surroundings'
+url: http://www.gutenberg.org/ebooks/57527
